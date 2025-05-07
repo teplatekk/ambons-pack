@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /2_doc_file/
+Disallow: /.git/
+Disallow: /.cursor/
+
+# Sitemap location
+Sitemap: https://yourwebsite.com/sitemap.xml 
